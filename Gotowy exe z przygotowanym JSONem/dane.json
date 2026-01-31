@@ -1,0 +1,62 @@
+[
+  {
+    "$type": "Pistolet",
+    "NumerKatalogowy": 1,
+    "Nazwa": "Glock 17",
+    "Dostepna": false
+  },
+  {
+    "$type": "Pistolet",
+    "NumerKatalogowy": 2,
+    "Nazwa": "Walther P99",
+    "Dostepna": true
+  },
+  {
+    "$type": "Pistolet",
+    "NumerKatalogowy": 3,
+    "Nazwa": "Beretta 92",
+    "Dostepna": false
+  },
+  {
+    "$type": "Pistolet",
+    "NumerKatalogowy": 4,
+    "Nazwa": "CZ Shadow",
+    "Dostepna": true
+  },
+  {
+    "$type": "Pistolet",
+    "NumerKatalogowy": 5,
+    "Nazwa": "SIG Sauer",
+    "Dostepna": false
+  },
+  {
+    "$type": "Karabin",
+    "NumerKatalogowy": 101,
+    "Nazwa": "AK-47",
+    "Dostepna": true
+  },
+  {
+    "$type": "Karabin",
+    "NumerKatalogowy": 102,
+    "Nazwa": "AR-15",
+    "Dostepna": true
+  },
+  {
+    "$type": "Karabin",
+    "NumerKatalogowy": 103,
+    "Nazwa": "G36",
+    "Dostepna": true
+  },
+  {
+    "$type": "Karabin",
+    "NumerKatalogowy": 104,
+    "Nazwa": "SCAR-L",
+    "Dostepna": true
+  },
+  {
+    "$type": "Karabin",
+    "NumerKatalogowy": 105,
+    "Nazwa": "M4A1",
+    "Dostepna": true
+  }
+]
