@@ -1,0 +1,14 @@
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\bin\Debug\net9.0\Komis.exe
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\bin\Debug\net9.0\Komis.deps.json
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\bin\Debug\net9.0\Komis.runtimeconfig.json
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\bin\Debug\net9.0\Komis.dll
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\bin\Debug\net9.0\Komis.pdb
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\obj\Debug\net9.0\Komis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\obj\Debug\net9.0\Komis.AssemblyInfoInputs.cache
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\obj\Debug\net9.0\Komis.AssemblyInfo.cs
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\obj\Debug\net9.0\Komis.csproj.CoreCompileInputs.cache
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\obj\Debug\net9.0\Komis.dll
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\obj\Debug\net9.0\refint\Komis.dll
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\obj\Debug\net9.0\Komis.pdb
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\obj\Debug\net9.0\Komis.genruntimeconfig.cache
+C:\Users\mrybicki\Downloads\Komis\Komis\Komis\obj\Debug\net9.0\ref\Komis.dll
